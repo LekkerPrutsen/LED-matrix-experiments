@@ -31,3 +31,6 @@ Same as experiment 2. But now horizontal.
 
 ## Experiment 4: identify the devices (4)
 Same as experiment 3. But now with loop. 
+
+## Experiment 5: identify the devices (5)
+Same as experiment 4. But now random.
