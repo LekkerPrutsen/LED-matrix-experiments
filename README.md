@@ -24,5 +24,10 @@ The MAX7219 4 in 1 LED matrix is composed of four elements. We want to identify 
 ## Experiment 2: indentify the devices (2)
 Same as experiment 1. But now with clearing the numbers after showing them for 1 second. 
 
+
 ## Experiment 3: identify the devices (3)
 Same as experiment 2. But now horizontal.
+
+
+## Experiment 4: identify the devices (4)
+Same as experiment 3. But now with loop. 
