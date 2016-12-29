@@ -10,11 +10,11 @@ Various experiments with the MAX7219 4 in 1 LED matrix connected with the Raspbe
 
 
 ## Pre-requisites ##
-Step 1: enable the SPI driver kernel. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
+**Step 1**: enable the SPI driver kernel. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
 
-Step 2: install the library. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
+**Step 2**: install the library. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
 
-Step 3: Connnect the LED matrix to your Raspberry Pi. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
+**Step 3**: Connnect the LED matrix to your Raspberry Pi. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
 
 
 ## Experiment 1: identify the devices (1)
