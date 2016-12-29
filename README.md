@@ -1,7 +1,8 @@
 # LED-matrix-experiments
 Various experiments with the MAX7219 4 in 1 LED matrix connected with the Raspberry Pi
 
-![Image](LekkerPrutsen.github.com/LED-matrix-experiments/images/DSCN2036.jpg)
+![Image](https://github.com/LekkerPrutsen/LED-matrix-experiments/blob/master/images/DSCN2036.JPG)
+
 
 ## What you need ##
 - Raspberry Pi
