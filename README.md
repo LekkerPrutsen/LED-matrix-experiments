@@ -13,5 +13,10 @@ Step 2: install the library. See [instructions](https://github.com/rm-hull/max72
 
 Step 3: Connnect the LED matrix to your Raspberry Pi. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
 
+
 ## Experiment 1: identify the devices (1)
 The MAX7219 4 in 1 LED matrix is composed of four elements. We want to identify the devices.
+
+
+## Experiment 2: indentify the devices (2)
+Same as experiment 1. But now with clearing the numbers after showing them for 1 second. 
