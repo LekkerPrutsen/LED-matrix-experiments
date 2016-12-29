@@ -1,6 +1,8 @@
 # LED-matrix-experiments
 Various experiments with the MAX7219 4 in 1 LED matrix connected with the Raspberry Pi
 
+![Image](LekkerPrutsen.github.com/LED-matrix-experiments/images/DSCN2036.jpg)
+
 ## What you need ##
 - Raspberry Pi
 - MAX7219 4 In 1 LED 4 in 1 Matrix Display. Available at [AliExpress](https://nl.aliexpress.com/item/MAX7219-Microcontroller-4-In-1-Display-with-5P-Line-Dot-Matrix-Module-for-Arduino/32669747663.html?spm=2114.13010608.0.0.gZJlAA&detailNewVersion=&categoryId=200003315)
