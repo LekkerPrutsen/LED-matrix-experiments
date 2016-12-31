@@ -34,3 +34,9 @@ Same as experiment 3. But now with loop.
 
 ## Experiment 5: identify the devices (5)
 Same as experiment 4. But now random.
+
+## Experiment 6: Knight Rider (1)
+Knight Rider LED scanner
+
+## Experiment 7: Knight Rider (2)
+Same as Experiment 6. Used other symbols.
