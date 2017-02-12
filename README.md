@@ -17,7 +17,7 @@ Various experiments with the MAX7219 4 in 1 LED matrix connected with the Raspbe
 **Step 3**: Connnect the LED matrix to your Raspberry Pi. See [instructions](https://github.com/rm-hull/max7219/blob/master/docs/install.rst) from @rm-hull
 
 ## Video ##
-[![IMAGE ALT TEXT HERE](https://github.com/LekkerPrutsen/LED-matrix-experiments/blob/master/images/LED%20matrix%20Youtube.jpg)](https://youtu.be/qZr_27tvujg)
+[![IMAGE ALT TEXT HERE](https://github.com/LekkerPrutsen/LED-matrix-experiments/blob/master/images/LED%20matrix%20Youtube.jpg)](https://youtu.be/Q5xZcl43ZU4)
 
 ## Experiment 1: identify the devices (1)
 The MAX7219 4 in 1 LED matrix is composed of four elements. We want to identify the devices.
